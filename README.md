@@ -1,2 +1,8 @@
 # Exploring-the-Salary-Experience-Connection-Linear-Regression-for-Employee-Salary-Estimation
-In this study, we focused on a dataset containing salary and years of experience information for 35 jobholders. By fitting a linear regression model, we obtained valuable insights into the parameters of the model and drew meaningful inferences regarding the salary-experience connection.
+
+![Unknown](https://github.com/user-attachments/assets/317863dc-31e6-4021-b7bc-1379405d2d63)
+
+Explored a dataset of 35 jobholders to analyze the relationship between salary and years of experience. Fitted a linear regression model to extract insights and make meaningful inferences. Full project available on **[Kaggle](https://www.kaggle.com/emmanuel-djegou/salary-experience-analysis)**.
+
+
+
